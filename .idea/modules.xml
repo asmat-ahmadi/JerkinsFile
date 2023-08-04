@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitHomework/GitHomework.iml" filepath="$PROJECT_DIR$/GitHomework/GitHomework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Githometask/Githometask.iml" filepath="$PROJECT_DIR$/Githometask/Githometask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gitpractice02/Gitpractice02.iml" filepath="$PROJECT_DIR$/Gitpractice02/Gitpractice02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java basics/Java basics.iml" filepath="$PROJECT_DIR$/Java basics/Java basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Myhomenotes and practice/Myhomenotes and practice.iml" filepath="$PROJECT_DIR$/Myhomenotes and practice/Myhomenotes and practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asmat/asmat.iml" filepath="$PROJECT_DIR$/asmat/asmat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gitabatch17test/gitabatch17test.iml" filepath="$PROJECT_DIR$/gitabatch17test/gitabatch17test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gitclass2/gitclass2.iml" filepath="$PROJECT_DIR$/gitclass2/gitclass2.iml" />
+    </modules>
+  </component>
+</project>
