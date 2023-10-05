@@ -1,0 +1,5 @@
+For xpath :
+when we get the code from text which usually showing by black color we can use
+//tagname[text()='.....'] example=//a[text()='Privacy'] in gmail
+if we go for class it is = //tagname[@class='.....'] example=//a[@class='ytp-impression-link']
+ we can also use type tag like this //input[@type='checkbox']
