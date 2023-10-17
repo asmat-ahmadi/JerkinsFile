@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Cucumber01 {
+public class Cucumber01 {
+    public static void main(String[] args) {
+    }
 }

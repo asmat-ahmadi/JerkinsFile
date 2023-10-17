@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class CommonMethods {
+public class facebook001 {
 
     public static  WebDriver driver;
     public static void openBrowserAndLaunchApplication(String url, String browser){
